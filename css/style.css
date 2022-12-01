@@ -1,8 +1,10 @@
 /* TITRE DE LA PAGE  */
+
 .titre-page{
     color:purple;
     text-align:center;
-    font-size:40px;
+    
+    font-size:45px;
 }
 .titre-mediavea,.titre-telmusique{
     color:#EEC0BF;
@@ -11,7 +13,7 @@
 }
 
 .titre-mediavea{
-    margin-top:2%;
+    margin-top:3%;
 }
 
 .titre-telmusique{
@@ -30,3 +32,4 @@
     
     
 }
+/* RESPONSIVE*/
